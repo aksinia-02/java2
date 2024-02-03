@@ -1,0 +1,3 @@
+hello
+hello2
+Get-Content .\quelldatei | java .\ConsoleEcho.java
